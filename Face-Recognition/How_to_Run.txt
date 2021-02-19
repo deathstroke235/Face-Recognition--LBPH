@@ -1,8 +1,5 @@
 This is a step by step explanation of how train and run Face Recognizer.
 
-
-To watch the tutorial video, here is the link of Neha Yadav video in her channel:- https://www.youtube.com/watch?v=h21wMKGs0qs
-
 1) Make a folder named as 'train-images' where you will store images to train.
 
 2) Make 1 or Multiple folders under train-images folder named as 0,1,2 and so on to store the images of people you want to recognize.
@@ -28,5 +25,3 @@ Make sure it clicks atleast 300 images before you end the program. Do the requir
 11) Now open load_model_image.py to recognize face from an image. Do the required configurations.
 
 12) Now open load_model_video.py to recognize face from a video or webcam. Do the required configurations.
-
-13) If you still face difficulty then either watch that video or message me in Instagram:- @py_developer.ashish
